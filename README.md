@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Marcin
 
 Solution Developer / .NET Developer 
+
 Focused on backend systems, integrations and fullstack applications 
 
 ---
