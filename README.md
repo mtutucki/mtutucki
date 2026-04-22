@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Marcin
 
 Solution Developer / .NET Developer 
-
 Focused on backend systems, integrations and fullstack applications 
 
 ---
@@ -39,16 +38,3 @@ Focused on backend systems, integrations and fullstack applications
 - Application architecture (**Clean Architecture, DDD basics**)
 - Performance and scalability
 - Frontend (React / Next.js)
-
----
-
-### Featured project
-
-**WheelsAndBills**  
-Vehicle cost & maintenance management system
-
-- cost analytics (fuel, repairs, parts)
-- event tracking (service, fuel, etc.)
-- reporting (PDF / Excel)
-- dashboard with charts
-- calendar view
