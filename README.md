@@ -21,3 +21,34 @@ Focused on backend systems, integrations and fullstack applications
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-App-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white)
+
+---
+
+### What I do
+
+- Build backend systems in **.NET**
+- Design and implement **API integrations (REST / SOAP)**
+- Work with databases, reporting and data processing
+- Develop fullstack features (Next.js + .NET)
+- Solve real-world problems (not just CRUD)
+
+---
+
+### Currently improving
+- Advanced **C# and .NET internals**
+- Application architecture (**Clean Architecture, DDD basics**)
+- Performance and scalability
+- Frontend (React / Next.js)
+
+---
+
+### Featured project
+
+**WheelsAndBills**  
+Vehicle cost & maintenance management system
+
+- cost analytics (fuel, repairs, parts)
+- event tracking (service, fuel, etc.)
+- reporting (PDF / Excel)
+- dashboard with charts
+- calendar view
