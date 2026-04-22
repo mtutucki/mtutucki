@@ -28,6 +28,4 @@ Focused on backend systems, integrations and fullstack applications
 
 ### Currently improving
 - Advanced **C# and .NET internals**
-- Application architecture (**Clean Architecture, DDD basics**)
-- Performance and scalability
 - Frontend (React / Next.js)
